@@ -1,7 +1,6 @@
 package com.qualityworkscg.tests;
 
 import org.testng.Assert;
-import org.testng.assertEquals;
 import org.testng.annotations.Test;
 
 
