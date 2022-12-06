@@ -26,7 +26,7 @@ public abstract class  AbstractTest {
   //  page = new Page(new FirefoxDriver());
   
 		    	
-    page = new Page(new EdgeDriver(options));
+    page = new Page(new EdgeDriver());
     
     page.navigate(url);
   }
