@@ -4,6 +4,7 @@
   <test name="Simple Test Suite">
 	<parameter name="url" value="http://www.qualityworkscg.com"></parameter>
     <classes>
+   <!--   <class name="com.qualityworkscg.tests.AbstractTest"/> -->
       <class name="com.qualityworkscg.tests.HomeTest"/>
       <class name="com.qualityworkscg.tests.ServicesTest"/>
     </classes>
