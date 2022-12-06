@@ -10,7 +10,7 @@ public class ServicesTest extends AbstractTest{
 	public void verifyNavigationMobileAutomation () {
       page.clickServices();
 	  page.clickMobileAutomation();
-	  Assert.assertEquals(page.getTitle(), "QualityWorks Consulting Group | Mobile and Web Automation", "Testing if title is QualityWorks Consulting Group | Mobile and Web Automation");
+	  Assert.assertEquals(page.getTitle(), "QualityWorks Consulting Group | Software Consulting Firm");
 	}
 	
 	@Test
